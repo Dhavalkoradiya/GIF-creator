@@ -1,4 +1,14 @@
 <?php
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::																								::
+::  GIFEncoder Version 1.0 by Dhaval koradiya - https://www.linkedin.com/in/Dhavalkoradiya      ::
+::																								::
+::  https://github.com/Dhavalkoradiya/GIF-creator                                               ::
+::																								::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+*/
+
 
 header ('Content-type:image/gif');
 include('GIFEncoder.class.php');
